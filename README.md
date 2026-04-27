@@ -136,7 +136,7 @@ artist_diff = |artist_sentiment - weighted_gugak_avg|
 
 ### 결과 1 — 연도별 트렌드
 
-2000~2010년대 K-pop은 sentiment 0.05~0.15 구간에서 진동.
+2000-2010년대 K-pop은 sentiment 0.05~0.15 구간에서 진동.
 **2020년 이후 sharp increase**, 2023년 ~0.25 도달.
 국악 baseline 0.3471에 점차 수렴하는 경향.
 
